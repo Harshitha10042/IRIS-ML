@@ -1,1 +1,2 @@
-# IRIS-ML
+ Machine Learning Model for Predicting Iris Species
+This repository contains a machine learning model built to classify the species of the Iris plant (Setosa, Versicolor, and Virginica) using the classic Iris dataset. It includes code for data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and visualization of results. The project is beginner-friendly and ideal for understanding the fundamentals of supervised learning and model deployment
